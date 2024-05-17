@@ -16,7 +16,7 @@ In the `feature_Dataset` folder, there are files serving as datasets that have b
 
 ## Results
 
-Some results on the datasets created by feature selection can be found in the `some_results` folder.
+Some results on the datasets created by feature selection can be found in the `Results` folder.
 
  
 
