@@ -1,21 +1,4 @@
 algorithm name: XGBClassifier
-number of iterations: 3
-average accuracy: 86.2332
-max accuracy: 87.1705
-std accuracy: 0.6645
-average f1 score: 0.8574
-max f1 score: 0.8680
-std f1 score: 0.0082
-average recall: 0.8466
-max recall: 0.8541
-std recall: 0.0068
-average precision: 0.8685
-max precision: 0.8824
-std precision: 0.0100
-average time: 3.4657
-
-
-algorithm name: XGBClassifier
 number of iterations: 100
 average accuracy: 86.2648
 max accuracy: 88.2835
