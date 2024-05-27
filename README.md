@@ -22,7 +22,7 @@ Some results on the datasets created by feature selection can be found in the `R
 
 ## Features Selection
 
-Before applying the machine learning algorithms, a manual feature selection process is performed to identify the most relevant features. Additionally, feature extraction algorithms such as Information Gain, Chi-Square, Fisher Score, and Correlation Coefficient are applied to further enhance the feature set.
+Before applying the machine learning algorithms, a manual feature selection process is performed to identify the most relevant features. Additionally, feature extraction algorithms such as Information Gain, Chi-Square, and Correlation Coefficient are applied to further enhance the feature set.
 
 ## Machine Learning Algorithms
 
